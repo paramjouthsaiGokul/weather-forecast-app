@@ -3,7 +3,7 @@
 **A modern, real-time, location-based weather forecast app** that blends simplicity, functionality, and design — crafted with precision using **HTML**, **CSS**, and **JavaScript**, powered by the **OpenWeatherMap API**.
 
 ## 🚀 Live Preview
-[🔗 View App in Action]([https://your-netlify-link.netlify.app](https://gokul-weather-app.netlify.app/))
+[🔗 View App in Action]((https://gokul-weather-app.netlify.app/))
 
 
 ---
