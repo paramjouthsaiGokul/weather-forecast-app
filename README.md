@@ -2,6 +2,17 @@
 
 **A modern, real-time, location-based weather forecast app** that blends simplicity, functionality, and design — crafted with precision using **HTML**, **CSS**, and **JavaScript**, powered by the **OpenWeatherMap API**.
 
+---
+
+## 🤝 Credits & Acknowledgements
+
+This project was built as part of my hands-on learning journey.  
+A huge thanks to **ChatGPT by OpenAI** for guiding me step-by-step in building, debugging, and styling this project.
+
+> From concept to deployment — it was like coding with a mentor! 💡
+> Built with ❤️ and guidance from ChatGPT.
+
+
 ## 🚀 Live Preview
 https://gokul-weather-app.netlify.app/
 
